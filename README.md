@@ -7,7 +7,6 @@
 На тестирование затрачено: 5 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/mgilmanova/-1---KeyValidator/issues/1
 * https://github.com/mgilmanova/-1---KeyValidator/issues/2
 
 ## Описание процесса тестирования
